@@ -45,4 +45,6 @@ void firstTry() {
   }
 }
 
-void main() {}
+void main() {
+  firstTry();
+}
